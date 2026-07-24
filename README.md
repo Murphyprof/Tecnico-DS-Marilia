@@ -1,2 +1,7 @@
 # Tecnico-DS-Marilia
-Profissional de TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS
+Profissional de Técnico em Desenvolvimento de Sistemas
+
+# Banco de Dados II
+# Programação Web II
+# Banco de Dados III
+
